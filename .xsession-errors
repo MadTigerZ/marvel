@@ -1,0 +1,161 @@
+Xsession: X session started for marvel at Wed May 24 11:56:06 AM EDT 2023
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/marvel/.Xauthority
+localuser:marvel being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=marvel
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/marvel
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=marvel
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/marvel/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/marvel
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/marvel
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+15:56:07.116837 main     VBoxClient 7.0.6_Debian r155176 (verbosity: 0) linux.amd64 (Jan 25 2023 11:16:26) release log
+15:56:07.116841 main     Log opened 2023-05-24T15:56:07.116830000Z
+15:56:07.119529 main     OS Product: Linux
+15:56:07.120051 main     OS Release: 6.0.0-kali3-amd64
+15:56:07.120251 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.0.7-1kali1 (2022-11-07)
+15:56:07.120529 main     Executable: /usr/bin/VBoxClient
+15:56:07.120530 main     Process ID: 856
+15:56:07.120531 main     Package type: LINUX_64BITS_GENERIC (OSE)
+15:56:07.120905 main      VBoxClient 7.0.6_Debian r155176 started. Verbose level = 0. Wayland environment detected: no
+15:56:07.121563 main      Service: Shared Clipboard
+15:56:07.131181 main     VBoxClient 7.0.6_Debian r155176 (verbosity: 0) linux.amd64 (Jan 25 2023 11:16:26) release log
+15:56:07.131186 main     Log opened 2023-05-24T15:56:07.131177000Z
+15:56:07.131600 main     OS Product: Linux
+15:56:07.131781 main     OS Release: 6.0.0-kali3-amd64
+15:56:07.132006 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.0.7-1kali1 (2022-11-07)
+15:56:07.133467 main     Executable: /usr/bin/VBoxClient
+15:56:07.133469 main     Process ID: 860
+15:56:07.133469 main     Package type: LINUX_64BITS_GENERIC (OSE)
+15:56:07.133884 main      VBoxClient 7.0.6_Debian r155176 started. Verbose level = 0. Wayland environment detected: no
+15:56:07.134745 main      Service: VirtualBox host version check
+15:56:07.153698 main     VBoxClient 7.0.6_Debian r155176 (verbosity: 0) linux.amd64 (Jan 25 2023 11:16:26) release log
+15:56:07.153701 main     Log opened 2023-05-24T15:56:07.153693000Z
+15:56:07.154341 main     OS Product: Linux
+15:56:07.154521 main     OS Release: 6.0.0-kali3-amd64
+15:56:07.154716 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.0.7-1kali1 (2022-11-07)
+15:56:07.154993 main     Executable: /usr/bin/VBoxClient
+15:56:07.154995 main     Process ID: 871
+15:56:07.154995 main     Package type: LINUX_64BITS_GENERIC (OSE)
+15:56:07.155357 main      VBoxClient 7.0.6_Debian r155176 started. Verbose level = 0. Wayland environment detected: no
+15:56:07.155692 main      Service: Seamless Mode Support
+15:56:07.164340 main     VBoxClient 7.0.6_Debian r155176 (verbosity: 0) linux.amd64 (Jan 25 2023 11:16:26) release log
+15:56:07.164343 main     Log opened 2023-05-24T15:56:07.164333000Z
+15:56:07.165392 main     OS Product: Linux
+15:56:07.165595 main     OS Release: 6.0.0-kali3-amd64
+15:56:07.165795 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.0.7-1kali1 (2022-11-07)
+15:56:07.167246 main     Executable: /usr/bin/VBoxClient
+15:56:07.167247 main     Process ID: 875
+15:56:07.167248 main     Package type: LINUX_64BITS_GENERIC (OSE)
+15:56:07.167957 main      VBoxClient 7.0.6_Debian r155176 started. Verbose level = 0. Wayland environment detected: no
+15:56:07.168299 main      Service: Drag'n'Drop
+15:56:07.180551 main     VBoxClient 7.0.6_Debian r155176 (verbosity: 0) linux.amd64 (Jan 25 2023 11:16:26) release log
+15:56:07.180554 main     Log opened 2023-05-24T15:56:07.180547000Z
+15:56:07.181551 main     OS Product: Linux
+15:56:07.181825 main     OS Release: 6.0.0-kali3-amd64
+15:56:07.182022 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.0.7-1kali1 (2022-11-07)
+15:56:07.182527 main     Executable: /usr/bin/VBoxClient
+15:56:07.182528 main     Process ID: 884
+15:56:07.182528 main     Package type: LINUX_64BITS_GENERIC (OSE)
+15:56:07.182907 main      VBoxClient 7.0.6_Debian r155176 started. Verbose level = 0. Wayland environment detected: no
+15:56:07.183250 main      Service: VMSVGA display assistant
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 11:56:07.457: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:933): xfwm4-WARNING **: 11:56:08.992: Unsupported GL renderer (SVGA3D; build: RELEASE;  LLVM;).
+
+** (wrapper-2.0:992): WARNING **: 11:56:11.746: No outputs have backlight property
+Xfce power manager is not running
+
+(xfce4-power-manager:1061): xfce4-power-manager-WARNING **: 11:56:13.549: could not map keysym 1008ffa8 to keycode
+
+Added OpenSC smartcard framework (0.23) to /home/marvel/.mozilla/firefox/vzk3bf3i.default-esr/pkcs11.txt
+
+** (xiccd:1098): WARNING **: 11:56:13.943: EDID is empty
+
+** (xfce4-power-manager:1061): WARNING **: 11:56:14.058: No outputs have backlight property
+Xfce Power Manager: Another power manager is already running
+
+(xfce4-power-manager:1061): xfce4-power-manager-WARNING **: 11:56:14.346: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+Another notification daemon is running, exiting
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+blueman-applet 11.56.18 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 11.56.18 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 11.56.19 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+
+** (xiccd:1098): WARNING **: 12:08:56.722: EDID is empty
+
+** (xiccd:1098): WARNING **: 12:08:56.807: EDID is empty
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:08:59.114: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:08:59.114: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:08:59.114: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:08:59.114: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:03.184: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:03.184: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:03.184: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:03.184: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:04.731: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:04.731: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:04.731: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+
+(xfwm4:933): xfwm4-CRITICAL **: 12:09:04.731: clientMoveToMonitorByDirectionTarget: assertion 'candidate_monitors != NULL' failed
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+** (xiccd:1098): WARNING **: 12:12:54.688: EDID is empty
+
+** (xiccd:1098): WARNING **: 12:12:54.966: EDID is empty
+
+** (xiccd:1098): WARNING **: 12:13:10.774: EDID is empty
+
+** (xiccd:1098): WARNING **: 12:13:10.791: EDID is empty
+
+** (xiccd:1098): WARNING **: 12:13:22.901: EDID is empty
+
+** (xiccd:1098): WARNING **: 12:13:23.044: EDID is empty
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.

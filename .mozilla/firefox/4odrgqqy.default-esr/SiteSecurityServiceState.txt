@@ -1,0 +1,6 @@
+classify-client.services.mozilla.com:HSTS	0	19410	1708625038145,1,0,2
+firefox.settings.services.mozilla.com:HSTS	0	19410	1708625039844,1,0,2
+contile.services.mozilla.com:HSTS	0	19410	1708625037853,1,0,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	19410	1708625039227,1,1,2
+normandy.cdn.mozilla.net:HSTS	0	19410	1708625037617,1,0,2
+location.services.mozilla.com:HSTS	0	19410	1708625037285,1,1,2
